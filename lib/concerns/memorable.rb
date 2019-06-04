@@ -8,7 +8,7 @@ module Memorable
   end 
   
   def count
-    self.all.size
+    self.all.count
   end 
 end 
   
